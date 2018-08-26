@@ -1,2 +1,3 @@
-# New_Batch
-Just added the Python installation document, please go through and help yourself.
+# New Batch
+Just uploaded todays's(26 Aug) session
+
