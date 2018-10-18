@@ -47,5 +47,5 @@ Introduction with relevance
 Basic plots(line,bar,histogram,Scatter,stack,pie chart and heat map)
 Labels, titles, legends and other customization for better understanding
 
-To get good grip ovver the topics make sure to complete all the given exercise.
+To get solid grip over the concepts make sure to complete all the given exercise.
 
