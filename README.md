@@ -2,7 +2,7 @@
 
 This particular series is meant to educate the newbie (in field of data science) to learn Python. 
 
-## What topics are covered in the Series
+## What topics are covered in the Series?
 
 ### Introduction to Python  
 Python Development Environments
@@ -47,5 +47,5 @@ Introduction with relevance
 Basic plots(line,bar,histogram,Scatter,stack,pie chart and heat map)
 Labels, titles, legends and other customization for better understanding
 
-
+To get good grip ovver the topics make sure to complete all the given exercise.
 
